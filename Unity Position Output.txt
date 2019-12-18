@@ -1,0 +1,3 @@
+https://forum.arduino.cc/index.php?topic=501192.0
+https://stackoverflow.com/questions/29859707/serial-communication-running-slow-in-unity
+https://github.com/reven/Unistep2
